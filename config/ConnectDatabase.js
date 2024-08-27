@@ -5,10 +5,10 @@ const express = require('express');
 
 
 const db = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
-    password: '',
-    database: 'eventdatabase'
+    host: 'https://auth-db1627.hstgr.io',
+    user: 'u555445899_shadow',
+    password: '09060306Zg@',
+    database: 'u555445899_shadow'
   });
   
   // Connexion à la base de données
